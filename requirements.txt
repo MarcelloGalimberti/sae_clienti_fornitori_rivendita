@@ -1,0 +1,12 @@
+# Requirements — Analisi Marginalità Rivendita
+# Installare nell'environment conda neuraplprophet:
+#   pip install -r requirements.txt
+
+pandas>=2.0
+numpy
+streamlit
+plotly
+openpyxl
+xlsxwriter
+fpdf2
+kaleido
